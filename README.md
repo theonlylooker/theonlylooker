@@ -7,7 +7,7 @@ a little more about me
 - - ⚡ Fun fact: I really love videogames and Japanese Media and Populare Culture
 - 📫 How to reach me: ebasurcoc@gmail.com 
 
-#I work with 
+# I work with 
 <p float="left">
   
 <img height="40" src="https://firebasestorage.googleapis.com/v0/b/myportfolio-5ee7d.appspot.com/o/skills%2Fjavascript.png?alt=media&token=137c78f7-a397-4454-9eec-2576f431a03b" alt="javascript">

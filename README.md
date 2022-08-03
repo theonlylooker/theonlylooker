@@ -10,10 +10,9 @@ a little more about me
 # I work with 
 <p float="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp" />
   </a>
-  [![](https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp)]
- </p>
+</p>
   
 ## Find me on
 

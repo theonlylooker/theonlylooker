@@ -9,7 +9,7 @@ a little more about me
 
 # I work with 
 <p float="left">
-  [![](https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp)]
  </p>
   
 ## Find me on

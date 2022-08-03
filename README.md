@@ -9,9 +9,9 @@ a little more about me
 
 # I work with 
 <p float="left">
-  
+  [![My Skills] (https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp)] (https://skillicons.dev)
  </p>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp)](https://skillicons.dev)
+  
 ## Find me on
 
 - Gmail    ebasurcoc@gmail.com 📹 ✍🏾

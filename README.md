@@ -2,7 +2,7 @@
 
 a little more about me
 - 🌱 I’m currently learning ReactJS
-- 💻 I'd like to learn Ruby and Ruby on Rails, Razor, React Native
+- 💻 I'd like to learn Ruby and Ruby on Rails, Razor, React Native, and more about backend
 - 👩‍🎓 I studied Computer Science
 - - ⚡ Fun fact: I really love videogames and Japanese Media and Populare Culture
 - 📫 How to reach me: ebasurcoc@gmail.com 
@@ -10,7 +10,7 @@ a little more about me
 # I work with 
 <p float="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,ts,css,react,mysql,vscode,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=js,html,ts,css,react,nodejs,mongodb,mysql,vscode,py,cpp" />
   </a>
 </p>
   

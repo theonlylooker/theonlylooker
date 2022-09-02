@@ -17,7 +17,7 @@ a little more about me
 ## Find me on
 
 - Gmail    ebasurcoc@gmail.com 📹 ✍🏾
-- <a href="https://www.linkedin.com/in/eduard-basurco-cayllahua-5b3855226/"> LinkedIn</a> 
+- <a href="https://www.linkedin.com/in/eduard-basurco/"> LinkedIn</a> 
 
 <!--
 **theonlylooker/theonlylooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

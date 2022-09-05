@@ -1,8 +1,8 @@
 ### Hi im Eduardo 👋 👨‍💻
 
 a little more about me
-- 🌱 I'm learning Nextjs 
-- 🌱 I'm currently focusing on ReactJS and nodeJS
+- 🌱 I'm currently learning Nextjs 
+- 🔭 I'm currently focusing on ReactJS and nodeJS
 - 💻 I'd like to learn Ruby and Ruby on Rails, Razor, React Native, and more about backend
 - 👩‍🎓 I studied Computer Science
 - - ⚡ Fun fact: I really love videogames and Japanese Media and Populare Culture
